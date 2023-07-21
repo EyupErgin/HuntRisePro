@@ -1,0 +1,5 @@
+beautifulsoup4
+colorama
+pandas
+requests
+tabulate
