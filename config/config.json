@@ -1,0 +1,7 @@
+{
+    "title": "Login — RisePro",
+    "directory": [
+        ":8081/login",
+        ":8081/libscripts.bundle.js"
+    ]
+}
