@@ -88,7 +88,7 @@ Specific RisePro Command and Control Server Detection Tool
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contributing
-Repo Update Date: 23-07-2023
+Repo Update Date: 23-07-2023 <br>
 If you would like to contribute to this project, please open an issue or submit a pull request. Any contributions and suggestions are welcome!
 
 ### Contact
