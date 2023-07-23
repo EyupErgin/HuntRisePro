@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://ergin.dev"><img src="https://raw.githubusercontent.com/EyupErgin/HuntRisePro/main/.img/HuntRisePro.png" width="800px" alt="HuntRisePro"></a>
 </p>
@@ -87,6 +88,7 @@ Specific RisePro Command and Control Server Detection Tool
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contributing
+Repo Update Date: 23-07-2023
 If you would like to contribute to this project, please open an issue or submit a pull request. Any contributions and suggestions are welcome!
 
 ### Contact
