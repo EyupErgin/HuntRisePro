@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Contributing
 Repo Update Date: 23-07-2023 <br>
-If you would like to contribute to this project, please open an issue or submit a pull request. Any contributions and suggestions are welcome!
+> If you would like to contribute to this project, please open an issue or submit a pull request. Any contributions and suggestions are welcome!
 
 ### Contact
 If you have any questions or suggestions, please feel free to contact me.<br>
